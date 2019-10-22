@@ -1,0 +1,311 @@
+[20:05:39] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[20:05:39] [Server thread/INFO]: Loading properties
+[20:05:39] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-9de398a-9c887d4 (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
+[20:05:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:05:40] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:05:40] [Server thread/INFO]: Debug logging is disabled
+[20:05:40] [Server thread/INFO]: Default game type: SURVIVAL
+[20:05:40] [Server thread/INFO]: Generating keypair
+[20:05:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:05:40] [Server thread/INFO]: Using epoll channel type
+[20:05:45] [User Authenticator #1/INFO]: UUID of player pipikej is cc9c528a-abf7-36ab-9f8f-6644b3c46d6b
+[20:05:48] [Server thread/WARN]: Plugin PermissionsEx v1.23.4 does not specify an api-version.
+[20:05:48] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[20:05:48] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[20:05:48] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.1;61bc012
+[20:05:50] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@25e6d2d7]
+[20:05:50] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[20:05:50] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.1.0
+[20:05:50] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.1.0
+[20:05:50] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.17.1.0
+[20:05:50] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.1.0
+[20:05:50] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.0;02b731f
+[20:05:50] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.17.1.0
+[20:05:50] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.17.1.0
+[20:05:50] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.1;61bc012
+[20:05:50] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[20:05:51] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_14_R4 as the Bukkit adapter
+[20:05:53] [Server thread/WARN]: [WorldEdit] ====================================================
+[20:05:53] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[20:05:53] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[20:05:53] [Server thread/WARN]: [WorldEdit]   
+[20:05:53] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[20:05:53] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[20:05:53] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[20:05:53] [Server thread/WARN]: [WorldEdit]   
+[20:05:53] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[20:05:53] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[20:05:53] [Server thread/WARN]: [WorldEdit]   
+[20:05:53] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[20:05:53] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[20:05:53] [Server thread/WARN]: [WorldEdit]   
+[20:05:53] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[20:05:53] [Server thread/WARN]: [WorldEdit] ====================================================
+[20:05:53] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[20:05:53] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[20:05:53] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[20:05:53] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[20:05:53] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[20:05:53] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[20:05:53] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[20:05:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:05:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:05:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:05:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:05:53] [Server thread/INFO]: Preparing level "world"
+[20:05:53] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:05:54] [Server thread/INFO]: Loaded 6 recipes
+[20:05:55] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:05:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:05:55] [Server thread/INFO]: Mob Spawn Range: 6
+[20:05:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:05:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:05:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:05:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:05:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:05:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:05:55] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:05:55] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:05:55] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:05:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:05:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:05:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:05:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:05:55] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:05:55] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:05:55] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:05:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:05:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:05:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:05:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:05:55] [Server thread/INFO]: Max TNT Explosions: 100
+[20:05:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:05:55] [Server thread/INFO]: View Distance: 10
+[20:05:55] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:05:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:05:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:05:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:05:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:05:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:05:58] [User Authenticator #2/INFO]: UUID of player pipikej is cc9c528a-abf7-36ab-9f8f-6644b3c46d6b
+[20:06:03] [User Authenticator #3/INFO]: UUID of player pipikej is cc9c528a-abf7-36ab-9f8f-6644b3c46d6b
+[20:06:14] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[20:06:14] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[20:06:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:06:14] [Server thread/INFO]: Mob Spawn Range: 6
+[20:06:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:06:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:06:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:06:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:06:14] [Server thread/INFO]: Max TNT Explosions: 100
+[20:06:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:06:14] [Server thread/INFO]: View Distance: 10
+[20:06:14] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:06:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:06:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:06:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:06:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:06:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:06:14] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[20:06:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:06:14] [Server thread/INFO]: Mob Spawn Range: 6
+[20:06:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:06:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:06:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:06:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:06:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:06:14] [Server thread/INFO]: Max TNT Explosions: 100
+[20:06:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:06:14] [Server thread/INFO]: View Distance: 10
+[20:06:14] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:06:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:06:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:06:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:06:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:06:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:06:14] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[20:06:16] [Server thread/INFO]: Preparing spawn area: 0%
+[20:06:16] [Server thread/INFO]: Preparing spawn area: 0%
+[20:06:16] [Server thread/INFO]: Preparing spawn area: 0%
+[20:06:16] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:06:16] [Server thread/INFO]: Preparing spawn area: 73%
+[20:06:17] [Server thread/INFO]: Time elapsed: 2454 ms
+[20:06:17] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[20:06:17] [User Authenticator #4/INFO]: UUID of player pipikej is cc9c528a-abf7-36ab-9f8f-6644b3c46d6b
+[20:06:18] [Server thread/INFO]: Preparing spawn area: 0%
+[20:06:18] [Server thread/INFO]: Preparing spawn area: 0%
+[20:06:18] [Server thread/INFO]: Preparing spawn area: 0%
+[20:06:18] [Server-Worker-1/INFO]: Preparing spawn area: 95%
+[20:06:19] [Server-Worker-1/INFO]: Preparing spawn area: 95%
+[20:06:19] [Server-Worker-1/INFO]: Preparing spawn area: 95%
+[20:06:20] [Server-Worker-1/INFO]: Preparing spawn area: 97%
+[20:06:20] [Server thread/INFO]: Time elapsed: 3299 ms
+[20:06:20] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[20:06:20] [Server thread/INFO]: Preparing spawn area: 0%
+[20:06:20] [Server thread/INFO]: Preparing spawn area: 62%
+[20:06:21] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[20:06:21] [Server-Worker-1/INFO]: Preparing spawn area: 85%
+[20:06:22] [Server-Worker-1/INFO]: Preparing spawn area: 96%
+[20:06:22] [Server thread/INFO]: Time elapsed: 2147 ms
+[20:06:22] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[20:06:22] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[20:06:22] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[20:06:22] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[20:06:22] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[20:06:22] [Server thread/INFO]: [Vault] [Vault][Chat] PermissionsEx_Chat hooked.
+[20:06:22] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.1.0
+[20:06:22] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[20:06:22] [Server thread/INFO]: No kits found to migrate.
+[20:06:23] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[20:06:23] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[20:06:23] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[20:06:23] [Server thread/INFO]: Loaded 20977 items from items.json.
+[20:06:23] [Server thread/INFO]: Using locale en_US
+[20:06:23] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[20:06:23] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[20:06:23] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[20:06:23] [Server thread/INFO]: [Essentials] Using Vault based permissions (PermissionsEx)
+[20:06:23] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.1.0
+[20:06:23] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.17.1.0
+[20:06:23] [Server thread/WARN]: Unable to load JDK7 types (annotations, java.nio.file.Path): no Java7 support added
+[20:06:23] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[20:06:23] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.1.0
+[20:06:23] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.0;02b731f
+[20:06:24] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[20:06:24] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[20:06:24] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[20:06:24] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[20:06:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[20:06:24] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[20:06:24] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[20:06:24] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[20:06:24] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[20:06:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[20:06:24] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[20:06:24] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[20:06:24] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[20:06:24] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[20:06:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[20:06:24] [Server thread/INFO]: [WorldGuard] Loading region data...
+[20:06:24] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.17.1.0
+[20:06:24] [Server thread/WARN]: config broken for xmpp
+[20:06:24] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.17.1.0
+[20:06:24] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[20:06:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:06:25] [Server thread/INFO]: Done (31.661s)! For help, type "help"
+[20:06:25] [Craft Scheduler Thread - 0/INFO]: [Vault] Checking for Updates ... 
+[20:06:25] [Craft Scheduler Thread - 0/INFO]: [Vault] No new version available
+[20:06:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ec7ce21[id=cc9c528a-abf7-36ab-9f8f-6644b3c46d6b,name=pipikej,properties={},legacy=false] (/85.221.132.116:25353) lost connection: Disconnected
+[20:06:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@2da8376d[id=cc9c528a-abf7-36ab-9f8f-6644b3c46d6b,name=pipikej,properties={},legacy=false] (/85.221.132.116:25357) lost connection: Disconnected
+[20:06:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ff71f6[id=cc9c528a-abf7-36ab-9f8f-6644b3c46d6b,name=pipikej,properties={},legacy=false] (/85.221.132.116:25359) lost connection: Disconnected
+[20:06:27] [Server thread/INFO]: pipikej[/85.221.132.116:25373] logged in with entity id 115 at ([world]-542.1704925472602, 67.0, -260.8038391215792)
+[20:06:27] [Server thread/WARN]: [Essentials] Task #17 for Essentials v2.17.1.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1023) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:971) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:816) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
+[20:06:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5046ms or 100 ticks behind
+[20:07:31] [Server thread/INFO]: pipikej lost connection: Disconnected
+[20:07:31] [Server thread/INFO]: pipikej left the game
+[20:07:31] [Server thread/WARN]: [Essentials] Task #21 for Essentials v2.17.1.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:142) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1023) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:971) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:816) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
+[20:08:48] [User Authenticator #5/INFO]: UUID of player domo is dbdfc529-c16e-3d87-8d02-d16865d2a5cd
+[20:08:48] [Server thread/INFO]: domo[/83.11.101.38:62932] logged in with entity id 496 at ([world]-508.21117805929606, 73.0, -273.50960465316325)
+[20:08:48] [Server thread/WARN]: [Essentials] Task #25 for Essentials v2.17.1.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1023) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:971) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:816) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
+[20:09:22] [Server thread/INFO]: domo lost connection: Disconnected
+[20:09:22] [Server thread/INFO]: domo left the game
+[20:09:22] [Server thread/WARN]: [Essentials] Task #28 for Essentials v2.17.1.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:142) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1023) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:971) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:816) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
+[20:09:54] [User Authenticator #6/INFO]: UUID of player pipikej is cc9c528a-abf7-36ab-9f8f-6644b3c46d6b
+[20:09:55] [Server thread/INFO]: pipikej[/85.221.132.116:25418] logged in with entity id 861 at ([world]-540.4464191451492, 68.76656400598807, -259.0825422797284)
+[20:09:55] [Server thread/WARN]: [Essentials] Task #32 for Essentials v2.17.1.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1023) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:971) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:816) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
+[20:10:04] [Server thread/INFO]: pipikej issued server command: /autosave
+[20:10:07] [Server thread/INFO]: pipikej issued server command: /save-on
+[20:13:20] [Server thread/INFO]: pipikej lost connection: Disconnected
+[20:13:20] [Server thread/INFO]: pipikej left the game
+[20:13:20] [Server thread/WARN]: [Essentials] Task #36 for Essentials v2.17.1.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:142) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1023) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:971) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:816) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
