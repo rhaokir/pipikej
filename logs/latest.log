@@ -309,3 +309,29 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:971) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
 	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:816) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
+[20:30:29] [User Authenticator #7/INFO]: UUID of player pipikej is cc9c528a-abf7-36ab-9f8f-6644b3c46d6b
+[20:30:29] [Server thread/INFO]: pipikej[/85.221.132.116:25296] logged in with entity id 1284 at ([world]-540.164628019971, 71.01947232819816, -260.4771372947438)
+[20:30:29] [Server thread/WARN]: [Essentials] Task #40 for Essentials v2.17.1.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1023) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:971) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:816) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
+[20:31:16] [Server thread/INFO]: pipikej lost connection: Disconnected
+[20:31:16] [Server thread/INFO]: pipikej left the game
+[20:31:16] [Server thread/WARN]: [Essentials] Task #43 for Essentials v2.17.1.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:142) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1023) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:971) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:816) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
