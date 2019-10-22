@@ -1,7 +1,14 @@
 groups:
-  default:
+  Gracz:
     options:
       default: true
     permissions:
     - modifyworld.*
+    - essentials.spawn
 schema-version: 1
+   Admin:
+    option:
+     default: false
+    permissions:
+    - modifyworld.*
+    - permissions.*
