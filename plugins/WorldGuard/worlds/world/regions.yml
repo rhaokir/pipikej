@@ -9,4 +9,32 @@
 #
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
-regions: {}
+regions:
+    spawn:
+        min: {x: -563, y: 0, z: -239}
+        max: {x: -551, y: 255, z: -227}
+        members: {}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
+    test:
+        min: {x: -560, y: 65, z: -244}
+        max: {x: -558, y: 67, z: -242}
+        members: {}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
+    global:
+        members: {}
+        flags: {}
+        owners: {}
+        type: global
+        priority: 0
+    __global__:
+        members: {}
+        flags: {}
+        owners: {}
+        type: global
+        priority: 0

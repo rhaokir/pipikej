@@ -1,17 +1,24 @@
 groups:
   default:
     options:
-      default: true
+      default: false
     permissions:
     - modifyworld.*
     - essentials.spawn
   ADMIN:
     options:
       default: false
-      prefix: '&2*H@*'
+      prefix: '&f*&2&lH@&r&f*'
     permissions:
     - '*'
     - modifyworld.*
+  GRACZE:
+    options:
+        default: true
+        prefix: '&f[&b&lGRACZ&r&f]'
+    permissions:
+            - modifyworld.*
+            - essentials.spawn
 schema-version: 1
 users:
   cc9c528a-abf7-36ab-9f8f-6644b3c46d6b:
