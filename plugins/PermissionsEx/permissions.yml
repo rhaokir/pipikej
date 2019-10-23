@@ -4,4 +4,18 @@ groups:
       default: true
     permissions:
     - modifyworld.*
+    - essentials.spawn
+  ADMIN:
+    options:
+      default: false
+      prefix: '&1[LORDY]'
+    permissions:
+    - '*'
+    - modifyworld.*
 schema-version: 1
+users:
+  cc9c528a-abf7-36ab-9f8f-6644b3c46d6b:
+    options:
+      name: pipikej
+    group:
+    - ADMIN
