@@ -8,7 +8,6 @@ groups:
   ADMIN:
     options:
       default: false
-      prefix: '&1[LORDY]'
     permissions:
     - '*'
     - modifyworld.*
