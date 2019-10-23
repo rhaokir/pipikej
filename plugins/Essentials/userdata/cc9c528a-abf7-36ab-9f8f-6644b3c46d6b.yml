@@ -1,16 +1,16 @@
 lastAccountName: pipikej
 timestamps:
   login: 1571832288066
-  logout: 1571831904587
+  logout: 1571835142306
   lastteleport: 1571834485931
 ipAddress: 85.221.132.116
 logoutlocation:
   world: world
-  x: -537.7165875966114
-  y: 80.5
-  z: -274.4719737074028
-  yaw: -18.57778
-  pitch: 20.847431
+  x: -558.0853772297187
+  y: 67.0
+  z: -231.92492554618372
+  yaw: -183.14354
+  pitch: 20.393263
 lastlocation:
   world: world
   x: -556.7236725097657
