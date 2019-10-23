@@ -1,5 +1,6 @@
+/world
 /world_nether
 /world_the_end
-root@minecraft:/home/server/world/
-root@minecraft:/home/server/world_nether/
-root@minecraft:/home/server/world_the_nether/
+root@minecraft:/home/server/world
+root@minecraft:/home/server/world_nether
+root@minecraft:/home/server/world_the_nether
