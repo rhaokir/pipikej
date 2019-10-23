@@ -8,6 +8,7 @@ groups:
   ADMIN:
     options:
       default: false
+      prefix: '&2*H@*'
     permissions:
     - '*'
     - modifyworld.*
