@@ -26,12 +26,6 @@ regions:
         owners: {}
         type: cuboid
         priority: 0
-    global:
-        members: {}
-        flags: {}
-        owners: {}
-        type: global
-        priority: 0
     __global__:
         members: {}
         flags: {}
