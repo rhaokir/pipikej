@@ -1,0 +1,20 @@
+geolocation: United States
+lastAccountName: Bermundsy
+timestamps:
+  login: 1572224927922
+  logout: 1572225112138
+ipAddress: 73.147.208.21
+lastlocation:
+  world: world
+  x: -466.5
+  y: 71.0
+  z: -261.5
+  yaw: 0.9749444
+  pitch: 0.0
+logoutlocation:
+  world: world_nether
+  x: -79.83526173941175
+  y: 66.0
+  z: -36.63437594151758
+  yaw: -221.92719
+  pitch: 25.375385

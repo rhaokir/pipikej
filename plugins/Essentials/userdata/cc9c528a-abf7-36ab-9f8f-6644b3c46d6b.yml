@@ -1,22 +1,30 @@
 lastAccountName: pipikej
 timestamps:
-  login: 1571855823000
-  logout: 1571864870462
-  lastteleport: 1571834485931
+  login: 1572789324600
+  logout: 1572789608147
+  lastteleport: 1572285248045
 ipAddress: 85.221.132.116
 logoutlocation:
   world: world
-  x: -524.6625028348917
-  y: 67.0
-  z: -276.83211661304887
-  yaw: 10.908813
-  pitch: 7.929351
+  x: -537.4854869064575
+  y: 61.0
+  z: -265.21681022323605
+  yaw: 234.33678
+  pitch: 27.688282
 lastlocation:
   world: world
-  x: -556.7236725097657
-  y: 67.0
-  z: -234.1677172042323
-  yaw: -100.69281
-  pitch: 63.47949
+  x: -497.6852439544831
+  y: 71.0
+  z: -258.4239830331429
+  yaw: 114.294235
+  pitch: 14.616769
 afk: false
 money: '10000'
+homes:
+  home:
+    world: world
+    x: -534.6108827447385
+    y: 61.0
+    z: -270.03708376997673
+    yaw: 342.91296
+    pitch: 23.052113

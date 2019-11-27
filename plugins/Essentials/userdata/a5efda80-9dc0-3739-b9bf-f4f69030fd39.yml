@@ -1,0 +1,20 @@
+lastAccountName: Deniality
+timestamps:
+  login: 1572224875705
+  logout: 1572225109435
+ipAddress: 52.128.53.35
+geolocation: United States
+lastlocation:
+  world: world
+  x: -453.5
+  y: 70.0
+  z: -257.5
+  yaw: 3.840965
+  pitch: 0.0
+logoutlocation:
+  world: world_nether
+  x: -82.16228023673037
+  y: 66.0
+  z: -36.62230504912821
+  yaw: -30.227081
+  pitch: 2.4252543
